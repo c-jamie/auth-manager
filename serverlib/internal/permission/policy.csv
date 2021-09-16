@@ -1,0 +1,3 @@
+p, admin, /users, write
+p, anon, /ping, read
+p, user, /users, read
